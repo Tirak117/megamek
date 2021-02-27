@@ -8447,8 +8447,8 @@ public class AmmoType extends EquipmentType {
                 .setIntroLevel(false)
                 .setUnofficial(false)
                 .setTechRating(RATING_C)
-                .setAvailability(RATING_X, RATING_X, RATING_E, RATING_D)
-                .setISAdvancement(3052, 3058, 3063, DATE_NONE, DATE_NONE)
+                .setAvailability(RATING_E, RATING_D, RATING_C, RATING_B)
+                .setISAdvancement(2870, 2880, 2890, DATE_NONE, DATE_NONE)
                 .setISApproximate(true, false, false,false, false)
                 .setPrototypeFactions(F_DC)
                 .setProductionFactions(F_DC);
@@ -8473,8 +8473,8 @@ public class AmmoType extends EquipmentType {
                 .setIntroLevel(false)
                 .setUnofficial(false)
                 .setTechRating(RATING_C)
-                .setAvailability(RATING_X, RATING_X, RATING_E, RATING_D)
-                .setISAdvancement(3052, 3058, 3063, DATE_NONE, DATE_NONE)
+                .setAvailability(RATING_E, RATING_D, RATING_C, RATING_B)
+                .setISAdvancement(2870, 2880, 2890, DATE_NONE, DATE_NONE)
                 .setISApproximate(true, false, false,false, false)
                 .setPrototypeFactions(F_DC)
                 .setProductionFactions(F_DC);
@@ -8499,8 +8499,8 @@ public class AmmoType extends EquipmentType {
                 .setIntroLevel(false)
                 .setUnofficial(false)
                 .setTechRating(RATING_C)
-                .setAvailability(RATING_X, RATING_X, RATING_E, RATING_D)
-                .setISAdvancement(3052, 3058, 3063, DATE_NONE, DATE_NONE)
+                .setAvailability(RATING_E, RATING_D, RATING_C, RATING_B)
+                .setISAdvancement(2870, 2880, 2890, DATE_NONE, DATE_NONE)
                 .setISApproximate(true, false, false,false, false)
                 .setPrototypeFactions(F_DC)
                 .setProductionFactions(F_DC);
@@ -8525,8 +8525,8 @@ public class AmmoType extends EquipmentType {
                 .setIntroLevel(false)
                 .setUnofficial(false)
                 .setTechRating(RATING_C)
-                .setAvailability(RATING_X, RATING_X, RATING_E, RATING_D)
-                .setISAdvancement(3052, 3058, 3063, DATE_NONE, DATE_NONE)
+                .setAvailability(RATING_E, RATING_D, RATING_C, RATING_B)
+                .setISAdvancement(2870, 2880, 2890, DATE_NONE, DATE_NONE)
                 .setISApproximate(true, false, false,false, false)
                 .setPrototypeFactions(F_DC)
                 .setProductionFactions(F_DC);
